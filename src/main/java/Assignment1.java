@@ -5,9 +5,9 @@ public class Assignment1 {
 
     public static void main(String[] args) {
         // write your code here
-        System.out.print("Hello World, from " + Assignment1.class.getCanonicalName());
+        System.out.println("Hello World, from " + Assignment1.class.getCanonicalName());
 
-        System.out.print("ben was here");
+        System.out.println("ben was here");
         
     }
 }
