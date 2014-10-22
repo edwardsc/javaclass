@@ -19,8 +19,8 @@ public class Main {
 
         switch (option){
             case "1":
-                DistanceFormulaConverter.calculateFeetPerMeter();
-                DistanceFormulaConverter.calculateMetersPerFoott();
+                MetricImperialConverter.calculateFeetPerMeter();
+                MetricImperialConverter.calculateMetersPerFoott();
                 break;
             case "2":
                 System.out.print("Under construction");

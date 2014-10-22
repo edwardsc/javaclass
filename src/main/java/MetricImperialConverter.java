@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 /**
  * Created by edwardsb on 10/21/14.
  */
-public class DistanceFormulaConverter {
+public class MetricImperialConverter {
     private static double METERS_PER_FOOT = 0.3048;
     private static double FEET_PER_METER = 3.28084;
     private static double meters = 0;
